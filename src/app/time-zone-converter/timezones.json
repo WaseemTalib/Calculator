@@ -1,0 +1,17 @@
+[
+  { "name": "UTC", "offset": 0 },
+  { "name": "America/New_York (EST)", "offset": -4 },
+  { "name": "America/Chicago (CST)", "offset": -5 },
+  { "name": "America/Denver (MST)", "offset": -6 },
+  { "name": "America/Los_Angeles (PST)", "offset": -7 },
+  { "name": "Europe/London (BST)", "offset": 1 },
+  { "name": "Europe/Paris (CEST)", "offset": 2 },
+  { "name": "Europe/Berlin (CEST)", "offset": 2 },
+  { "name": "Europe/Moscow (MSK)", "offset": 3 },
+  { "name": "Asia/Dubai (GST)", "offset": 4 },
+  { "name": "Asia/Kolkata (IST)", "offset": 5.5 },
+  { "name": "Asia/Shanghai (CST)", "offset": 8 },
+  { "name": "Asia/Tokyo (JST)", "offset": 9 },
+  { "name": "Australia/Sydney (AEST)", "offset": 10 },
+  { "name": "Pacific/Auckland (NZST)", "offset": 12 }
+]

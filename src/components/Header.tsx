@@ -13,7 +13,16 @@ export default function Header() {
             <Link href="/pregnancy-due-date" className="px-4 py-2 rounded-lg text-white hover:bg-pink-600 hover:text-yellow-300 transition-colors duration-200">Pregnancy</Link>
           </li>
           <li>
-            <Link href="/tip-calculator" className="px-4 py-2 rounded-lg text-white hover:bg-green-600 hover:text-yellow-300 transition-colors duration-200">Tip</Link>
+            <Link href="/ai-text-to-emoji" className="px-4 py-2 rounded-lg text-white hover:bg-yellow-500 hover:text-blue-900 transition-colors duration-200">Text-to-Emoji</Link>
+          </li>
+          <li>
+            <Link href="/time-zone-converter" className="px-4 py-2 rounded-lg text-white hover:bg-blue-400 hover:text-blue-900 transition-colors duration-200">Time Zone</Link>
+          </li>
+          <li>
+            <Link href="/instagram-hashtag-generator" className="px-4 py-2 rounded-lg text-white hover:bg-pink-400 hover:text-blue-900 transition-colors duration-200">Hashtags</Link>
+          </li>
+          <li>
+            <Link href="/youtube-earnings-estimator" className="px-4 py-2 rounded-lg text-white hover:bg-red-500 hover:text-yellow-300 transition-colors duration-200">YouTube Earnings</Link>
           </li>
         </ul>
       </nav>
